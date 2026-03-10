@@ -91,7 +91,7 @@ The analysis covers demographics, purchasing behavior, payment methods, product 
 
 **Mridul Lata**
 
-📍 Jaipur, India · 💼 Aspiring Data Scientist / ML Engineer
+📍 Jaipur, India · 💼 Aspiring Data Analyst 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridullata)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=white)](https://github.com/mridul0010)
