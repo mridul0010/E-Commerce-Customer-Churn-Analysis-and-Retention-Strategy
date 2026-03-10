@@ -1,7 +1,7 @@
-python
 streamlit 
 matplotlib
 plotly
 pandas
 numpy
 seaborn
+
