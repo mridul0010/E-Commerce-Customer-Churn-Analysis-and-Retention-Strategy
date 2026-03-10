@@ -9,13 +9,20 @@ st.set_page_config(page_title="E-Commerce Churn Analysis", page_icon="📊", lay
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("E_Commerce_Customer_Churn.csv")
+
+    # Google Drive direct download link
+    url = "https://drive.google.com/uc?id=1cVtj9L1CpqWACu1KCp-UCYo3NpR8RVKU"
+
+    df = pd.read_csv(url)
+
     df["Purchase Date"] = pd.to_datetime(df["Purchase Date"], format="mixed")
+
     df["Age Group"] = pd.cut(
         df["Customer Age"],
         bins=[1, 17, 25, 40, 60, 100],
         labels=["1-17", "18-25", "26-40", "41-60", "60+"],
     )
+
     return df
 
 df = load_data()
@@ -427,3 +434,4 @@ with tab5:
     **Key Takeaway:** Customer *behavior* is a stronger predictor of churn than demographics.
     Gender has minimal effect, age has moderate effect, but purchase behavior has the strongest effect.
     """)
+
