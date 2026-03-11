@@ -69,14 +69,14 @@ col4.metric("Revenue Lost to Churn", f"${revenue_lost:,.0f}")
 # ── Tabs ──────────────────────────────────────────────────────────────────────
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs([
-    "📈 Univariate", "🏢 Business Analysis", "🧠 Customer Behavior",
+    "📈 Data Overview & Feature Distribution", "🏢 Business Analysis", "🧠 Customer Behavior",
     "💰 Revenue Impact", "📋 Strategy & Insights"
 ])
 
-# ── Tab 1: Univariate Analysis ───────────────────────────────────────────────
+# ── Tab 1: Data Overview & Feature Distribution Analysis ───────────────────────────────────────────────
 
 with tab1:
-    st.subheader("Univariate Analysis")
+    st.subheader("Data Overview & Feature Distribution Analysis")
 
     c1, c2 = st.columns(2)
 
@@ -434,4 +434,5 @@ with tab5:
     **Key Takeaway:** Customer *behavior* is a stronger predictor of churn than demographics.
     Gender has minimal effect, age has moderate effect, but purchase behavior has the strongest effect.
     """)
+
 
