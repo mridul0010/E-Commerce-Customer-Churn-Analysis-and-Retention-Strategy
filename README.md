@@ -108,6 +108,12 @@ E-Commerce-Customer-Churn-Analysis-and-Retention-Strategy/
 
 ## 📸 Screenshots
 
+<details>
+<summary>Click to expand dashboard screenshots</summary>
+
+<br>
+
+
 <img width="1409" height="239" alt="image" src="https://github.com/user-attachments/assets/fa215904-5239-462f-9690-30ce9cfed25e" />
 
 <img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/b1277797-5d69-4062-83b7-70b61c7c0b08" />
@@ -122,6 +128,7 @@ E-Commerce-Customer-Churn-Analysis-and-Retention-Strategy/
 
 <img width="1380" height="86" alt="image" src="https://github.com/user-attachments/assets/d2ef7288-0591-46a6-aae7-386d39e3ff61" />
 
+</details>
 
 ---
 
