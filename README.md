@@ -114,19 +114,27 @@ E-Commerce-Customer-Churn-Analysis-and-Retention-Strategy/
 <br>
 
 
-<img width="1409" height="239" alt="image" src="https://github.com/user-attachments/assets/fa215904-5239-462f-9690-30ce9cfed25e" />
+<img width="1849" height="905" alt="image" src="https://github.com/user-attachments/assets/bc96c31a-cbea-4d2a-983f-b4ac64bc6b07" />
 
-<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/b1277797-5d69-4062-83b7-70b61c7c0b08" />
+<img width="1917" height="998" alt="image" src="https://github.com/user-attachments/assets/2e9d117a-b143-40ee-834e-14e076feb288" />
 
-<img width="1910" height="954" alt="image" src="https://github.com/user-attachments/assets/83476382-2fd5-475a-a26b-edfc3f3b2caa" />
+<img width="1902" height="1008" alt="image" src="https://github.com/user-attachments/assets/8c0df7da-327b-4130-85c8-7347028745bc" />
 
-<img width="1904" height="960" alt="image" src="https://github.com/user-attachments/assets/a3d44979-14dc-4c22-8c1f-935cbe3c9522" />
+<img width="1415" height="761" alt="image" src="https://github.com/user-attachments/assets/349d721e-a7f7-4645-93ab-671b9045d568" />
 
-<img width="1870" height="1003" alt="image" src="https://github.com/user-attachments/assets/4e88f3f2-33a4-46ae-bcc7-6d98ee1d37e4" />
+<img width="1899" height="941" alt="image" src="https://github.com/user-attachments/assets/ba9cca4a-cedf-42f2-8dd6-1c8765df1bc8" />
 
-<img width="1887" height="961" alt="image" src="https://github.com/user-attachments/assets/902ee8e5-49f1-42fd-bf86-e38a8dd21556" />
+<img width="1915" height="1032" alt="image" src="https://github.com/user-attachments/assets/97e2e046-1746-44a3-95e0-0de289d7072e" />
 
-<img width="1380" height="86" alt="image" src="https://github.com/user-attachments/assets/d2ef7288-0591-46a6-aae7-386d39e3ff61" />
+<img width="1741" height="1044" alt="image" src="https://github.com/user-attachments/assets/f6f83d80-bf3d-4462-8b03-23ad62dec4df" />
+
+<img width="1704" height="67" alt="image" src="https://github.com/user-attachments/assets/826e035b-45c0-43d8-88a0-8803e5529706" />
+
+
+
+
+
+
 
 </details>
 
