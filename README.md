@@ -10,8 +10,8 @@
 
 </div>
 
-<details>
-<summary><strong>📌 Quick Navigation</strong></summary>
+
+## Table of Contents
 
 - [📖 Overview](#-overview)
 - [✨ Features](#-features)
@@ -23,7 +23,7 @@
 - [👤 Author](#-author)
 - [📄 License](#-license)
 
-</details>
+
 
 ---
 
