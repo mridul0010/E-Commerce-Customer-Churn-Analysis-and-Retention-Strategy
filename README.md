@@ -10,6 +10,21 @@
 
 </div>
 
+<details>
+<summary><strong>📌 Quick Navigation</strong></summary>
+
+- [📖 Overview](#-overview)
+- [✨ Features](#-features)
+- [🛠️ Tech Stack](#-tech-stack)
+- [🚀 Getting Started](#-getting-started)
+- [📁 Project Structure](#-project-structure)
+- [📸 Screenshots](#-screenshots)
+- [💡 Key Insights](#-key-insights)
+- [👤 Author](#-author)
+- [📄 License](#-license)
+
+</details>
+
 ---
 
 ## 📖 Overview
@@ -91,7 +106,7 @@ E-Commerce-Customer-Churn-Analysis-and-Retention-Strategy/
 └── README.md                       # Project documentation
 ```
 
-## Screenshots
+## 📸 Screenshots
 
 <img width="1409" height="239" alt="image" src="https://github.com/user-attachments/assets/fa215904-5239-462f-9690-30ce9cfed25e" />
 
@@ -106,9 +121,6 @@ E-Commerce-Customer-Churn-Analysis-and-Retention-Strategy/
 <img width="1887" height="961" alt="image" src="https://github.com/user-attachments/assets/902ee8e5-49f1-42fd-bf86-e38a8dd21556" />
 
 <img width="1380" height="86" alt="image" src="https://github.com/user-attachments/assets/d2ef7288-0591-46a6-aae7-386d39e3ff61" />
-
-
-
 
 
 ---
