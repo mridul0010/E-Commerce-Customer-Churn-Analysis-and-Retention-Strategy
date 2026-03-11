@@ -91,6 +91,26 @@ E-Commerce-Customer-Churn-Analysis-and-Retention-Strategy/
 └── README.md                       # Project documentation
 ```
 
+## Screenshots
+
+<img width="1409" height="239" alt="image" src="https://github.com/user-attachments/assets/fa215904-5239-462f-9690-30ce9cfed25e" />
+
+<img width="1919" height="977" alt="image" src="https://github.com/user-attachments/assets/b1277797-5d69-4062-83b7-70b61c7c0b08" />
+
+<img width="1910" height="954" alt="image" src="https://github.com/user-attachments/assets/83476382-2fd5-475a-a26b-edfc3f3b2caa" />
+
+<img width="1904" height="960" alt="image" src="https://github.com/user-attachments/assets/a3d44979-14dc-4c22-8c1f-935cbe3c9522" />
+
+<img width="1870" height="1003" alt="image" src="https://github.com/user-attachments/assets/4e88f3f2-33a4-46ae-bcc7-6d98ee1d37e4" />
+
+<img width="1887" height="961" alt="image" src="https://github.com/user-attachments/assets/902ee8e5-49f1-42fd-bf86-e38a8dd21556" />
+
+<img width="1380" height="86" alt="image" src="https://github.com/user-attachments/assets/d2ef7288-0591-46a6-aae7-386d39e3ff61" />
+
+
+
+
+
 ---
 
 ## 💡 Key Insights
